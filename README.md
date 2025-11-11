@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
--🔭 I’m currently working at [Divusware](https://www.divusware.com/)<br>
--🌱 I’m currently learning .NET, UX/UI Design, and Figma<br>
+-🔭 I am currently looking for a new job that will test my skills.<br>
+-🌱 I’m currently learning, React, .NET, UX/UI Design, and Figma<br>
 -👯 I’m looking to collaborate on development projects using Python, AI, or frontend with JavaScript/TypeScript<br>
 -🌐 My portfolio website is coming soon!<br>
 -💬 Ask me about programming logic, processes, Next.js, Python, or interface design<br>
